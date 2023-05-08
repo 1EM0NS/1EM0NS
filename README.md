@@ -4,6 +4,7 @@
 - 📖 I’m currently studying at SUES ...
 - 🌱 I’m currently learning Database&AI
 - 💻 I love CS and hope to learn more with the community！
+- www.1EM0NS.love is the domain name of my blog 
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
