@@ -1,4 +1,4 @@
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=1EM0NS&show_icons=true&hide_title=true&theme=synthwave" />
+ <img align="right" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=1EM0NS&show_icons=true&hide_title=true&theme=synthwave" />
    
 ### Hi there 👋
 - 📖 I’m currently studying at SUES ...
