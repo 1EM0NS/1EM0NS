@@ -9,4 +9,4 @@
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: 1224045723@njupt.edu.cn
 <!-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- ⚡ Fun fact1: ... -->
