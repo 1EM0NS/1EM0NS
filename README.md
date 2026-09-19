@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Zhuohang Pan</h1>
 <h3 align="center">A CS master's student at NJUPT, focusing on NLP & Multimodal Learning</h3>
 
 <p align="center">
